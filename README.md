@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a3jgi73wukccqwk1?svg=true)](https://ci.appveyor.com/project/mao/windowsoeminformation)
+
 # [WindowsOemInformation](https://github.com/turboBasic/WindowsOemInformation)
 
 ## ![0xHexagram][hexagram]
